@@ -14,7 +14,7 @@
 
 > 问题：[Fork 项目 cron 不执行](https://github.com/ZHDeveloper/JD_Sign_Action/issues/3)
 > 
-> 1、建议修改README.md提交，以触发定时任务。
+> 1、建议修改README.md提交，以触发定时任务.。
 >
 > 2、定时任务的时间是UTC时间，跟中国时间有8小时的时差。
 
